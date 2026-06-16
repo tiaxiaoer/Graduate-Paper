@@ -1,0 +1,8 @@
+﻿平台/供应商,企业使用份额,最强用例,核心优势,主要局限
+Microsoft Copilot,28%,办公生产力、IT运维,Microsoft生态集成、企业级安全,主要适用于Microsoft用户
+Salesforce Agentforce,19%,CRM、Service Cloud,CRM数据访问、销售/服务场景,局限于Salesforce生态
+OpenAI ChatGPT/Operator/Codex,17%,知识工作、编码、计算机使用,模型能力领先、开发者生态,供应商锁定、成本波动
+Anthropic Claude/Claude Code,12%,Agentic工程、长上下文分析,安全性优先、OS级控制,模型选择有限
+Google Gemini/Vertex AI,10%,数据分析、多模态,多语言支持、A2A协议,Google Cloud依赖
+Cursor (Composer 2),5%,IDE原生编码,开发者体验、并行开发,局限于编码场景
+内部自定义构建,22%,差异化工作流、敏感数据场景,完全定制、数据控制,开发和维护成本高

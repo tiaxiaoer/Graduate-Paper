@@ -1,0 +1,9 @@
+﻿论文标题,下载链接,大致工作内容
+**ACE: A Security Architecture for LLM-Integrated App Systems**,[PDF](https://arxiv.org/pdf/2504.20984),"提出 ACE 架构，将 LLM 应用/Agent 的规划解耦为""抽象规划""与""具体规划""并隔离执行，防御间接提示注入攻击"
+**SAGA: A Security Architecture for Governing AI Agentic Systems**,[PDF](https://arxiv.org/pdf/2504.21034),提出 SAGA 框架，通过 Provider 实体管理 Agent 注册与元数据，利用一次性密钥和访问控制令牌实现 Agent 间细粒度密码学访问控制与用户全生命周期监管
+**Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents**,[PDF](https://arxiv.org/pdf/2504.03111),首次系统分析多工具 LLM Agent 的任务控制流安全，发现新型 **XTHP（跨工具收获与污染）** 威胁，75% 评估工具存在漏洞
+**ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data**,[PDF](https://arxiv.org/pdf/2512.09321),针对使用多源数据的 LLM Agent 提出**顺序无关**提示注入攻击，仅污染单一数据源即可成功，ASR 达 **98.7%–99.6%**
+**Prompt Injection Attack to Tool Selection in LLM Agents**,[PDF](https://arxiv.org/pdf/2504.19793),研究针对 LLM Agent **工具选择阶段**的提示注入攻击，提出 ToolHijacker 生成恶意工具文档劫持工具检索，在 GPT-4o 等模型上 ASR 达 **96.7%**
+**Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation**,[PDF](https://arxiv.org/pdf/2508.07745) · [GitHub](https://github.com/fish98/Chimera),基于 **多 Agent LLM** 的自动化内部威胁模拟框架，每个 Agent 模拟一名员工，支持群组会议与任务协作，生成 **ChimeraLog** 数据集用于内部威胁检测研究
+**FirmAgent: Leveraging Fuzzing to Assist LLM Agents with IoT Firmware Vulnerability Discovery**,暂无公开预印本,结合模糊测试与 **LLM Agent** 能力，自动发现 IoT 固件中的安全漏洞
+**Benchmarking and Understanding Safety Risks in AI Character Platforms**,[PDF](https://arxiv.org/pdf/2512.01247),对 **AI 角色平台**（如 Character.AI，属于 Agent 应用形态）进行大规模安全基准测试，发现平均不安全响应率高达 **65.1%**

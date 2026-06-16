@@ -1,0 +1,58 @@
+
+ Chen et al., CCS 2014 | OAuth demystified for mobile application developers
+
+Bugiel et al., USENIX 2013 | Flexible and fine-grained MAC on Android 
+
+Tian et al., USENIX 2017 | SmartAuth: User-Centered authorization for IoT
+
+USENIX 2018 | Rethinking access control for home IoT
+
+Imran et al., USENIX 2022 | SARA
+
+Dougherty et al., CCS 2021 | APECS
+
+Stateful least privilege authorization for the cloud
+
+Yialelis & Sloman, NDSS 1996 | Domain Based Access Control
+
+Bauer et al., USENIX 2002 | A General and Flexible Access-Control System for the Web
+
+Roesner et al., CCS 2014 | World-driven access control for continuous sensing
+
+Taming Various Privilege Escalation: A MAC Framework
+
+[2024, SSRN] AI and Access Management (IAM) in the Cloud (Olabanji et al., 114引用)
+
+[2026-11, IEEE] A Novel Zero-Trust Identity Framework for Agentic AI (Huang et al., 49引用)
+
+[2024, ResearchGate] Leveraging AI for Enhanced IAM (Nzeako et al., 34引用)
+
+ [2025, arXiv] A Vision for Access Control in LLM-Based Agent Systems (Li et al., 12引用)、
+
+
+[2025, arXiv] LMN: Generating Machine Enforceable Policies (Sonune et al., 12引用)
+
+[2026-11, arXiv] AgentGuardian: Learning Access Control Policies (Abaev et al., 7引用)
+
+[2025-03, arXiv] Authenticated Delegation and Authorized AI Agents (South et al., 83引用)
+
+[2025, arXiv] Identity Management for Agentic AI (South et al., 15引用)
+
+[2026, PST Journal] Towards Trustworthy Agentic AI in Healthcare (Agballog et al., 15引用)
+
+[2025-12, arXiv] AI Agents with Decentralized Identifiers and Verifiable Credentials (Garzon et al., 14引用)
+
+
+[2025, arXiv] Agentic JWT: A Secure Delegation Protocol (Goswami, 7引用)
+
+[2026, arXiv] Agent Skills for LLMs: Architecture, Acquisition, Security (Xu et al., 83引用)
+
+
+ [2025, arXiv] Securing Agentic AI: A Comprehensive Threat Model (Narajala et al., 65引用)
+
+
+[2025, arXiv] SAGA: A Security Architecture for Governing AI Agentic Systems (Syros et al., 39引用)
+
+
+Agent Identity Protocol (Agentic JWT)
+
