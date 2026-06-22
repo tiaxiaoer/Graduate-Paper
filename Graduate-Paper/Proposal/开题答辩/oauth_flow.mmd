@@ -1,0 +1,15 @@
+
+sequenceDiagram
+    participant U as User
+    participant C as Client
+    participant A as Authorization Server
+    participant R as Resource Server
+
+    U->>C: 1. 请求授权
+    C->>A: 2. 重定向到授权服务器
+    A->>U: 3. 用户登录并授权
+    U->>C: 4. 返回授权码
+    C->>A: 5. 交换授权码获取令牌
+    A->>C: 6. 返回访问令牌
+    C->>R: 7. 使用令牌请求资源
+    R->>C: 8. 返回受保护资源
